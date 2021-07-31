@@ -1,4 +1,4 @@
-# Employee-Managment-
+# Employee-Managment-System
 Employeee managmenet system for two companies using singly linked list in C++
 Basic Operations like 
 1)add new employee to any of the company.
