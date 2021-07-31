@@ -1,5 +1,5 @@
 # Employee-Managment-System
-Employeee managmenet system for two companies using singly linked list in C++
+Employeee managmenet system for two companies using singly linked list in C language :)
 Basic Operations like 
 1)add new employee to any of the company.
 2)Display the employees list.
