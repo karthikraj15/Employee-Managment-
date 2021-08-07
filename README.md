@@ -1,4 +1,5 @@
 # Employee-Managment-System
+# By Karthik raj R & Balakrishna Kamath
 Employeee managmenet system for two companies using singly linked list in C language :)
 
 
@@ -15,4 +16,5 @@ Basic Operations like
 5)Find the highest salary in an company.
 
 6)Find the highest salary from both the companies.
+
 
