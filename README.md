@@ -1,6 +1,6 @@
 # Employee-Managment-System
 # By Karthik raj R & Balakrishna Kamath
-Employeee managmenet system for a particular company which has two sub-branch 
+Employeee managment system for a particular company which has two sub-branch 
 
 
 Basic Operations like 
