@@ -1,6 +1,6 @@
 # Employee-Managment-System
 # By Karthik raj R & Balakrishna Kamath
-Employeee managmenet system for two companies using singly linked list in C language :)
+Employeee managmenet system for a particular company which has two sub-branch 
 
 
 Basic Operations like 
