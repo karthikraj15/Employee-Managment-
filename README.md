@@ -1,6 +1,6 @@
 # Employee-Managment-System
 # By Karthik raj R & Balakrishna Kamath
-Employeee managment system for a particular company which has two sub-branches .
+Employeee managment system for a particular company which has two sub-branches using singly linked list.
 
 
 Basic Operations like 
